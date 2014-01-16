@@ -5,7 +5,7 @@
    	<property name="build.dir" location="bin"/>
 	<property name="dist.dir" location="dist"/>
 	<property name="classpath" location="bin"/>
-	<property name="server.port" value="1234"/> 
+	<property name="server.port" value="1099"/> 
 	<property name="server.IP" value="127.0.0.1"/>
 	<property name="server.Name" value="PayPalServer"/>
 	<property name="export.file" value="PayPalServer.jar"/>
